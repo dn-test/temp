@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/d5k2nvgzpkh871gy984z" x-tvg-url="http://m3u4u.com/epg/d5k2nvgzpkh871gy984z"
 #EXTINF:-1,A&E
 http://rv.imax.re:80/4334276722/8502631953/81041
 #EXTINF:-1,ABC EAST
