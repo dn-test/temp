@@ -1,0 +1,385 @@
+#EXTINF:-1,USA| HBO|http://rv.imax.re:80/4334276722/8502631953/81216
+#EXTINF:-1,HBO 2|http://rv.imax.re:80/4334276722/8502631953/81215
+#EXTINF:-1,HBO ZONE|http://rv.imax.re:80/4334276722/8502631953/81214
+#EXTINF:-1,HBO SIGNATURE|http://rv.imax.re:80/4334276722/8502631953/81213
+#EXTINF:-1,HBO FAMILY|http://rv.imax.re:80/4334276722/8502631953/81212
+#EXTINF:-1,HBO COMEDY|http://rv.imax.re:80/4334276722/8502631953/81211
+#EXTINF:-1,HALLMARK MOVIES & MYSTERIES|http://rv.imax.re:80/4334276722/8502631953/81210
+#EXTINF:-1,HALLMARK|http://rv.imax.re:80/4334276722/8502631953/81209
+#EXTINF:-1,HALLMARK DRAMA|http://rv.imax.re:80/4334276722/8502631953/81208
+#EXTINF:-1,STARZ IN BLACK|http://rv.imax.re:80/4334276722/8502631953/81206
+#EXTINF:-1,STARZ ENCORE WESTERNS|http://rv.imax.re:80/4334276722/8502631953/81205
+#EXTINF:-1,STARZ ENCORE|http://rv.imax.re:80/4334276722/8502631953/81204
+#EXTINF:-1,STARZ EDGE|http://rv.imax.re:80/4334276722/8502631953/81203
+#EXTINF:-1,STARZ COMEDY|http://rv.imax.re:80/4334276722/8502631953/81202
+#EXTINF:-1,EPIX HITS|http://rv.imax.re:80/4334276722/8502631953/81201
+#EXTINF:-1,EPIX|http://rv.imax.re:80/4334276722/8502631953/81200
+#EXTINF:-1,EPIX 2|http://rv.imax.re:80/4334276722/8502631953/81199
+#EXTINF:-1,CINEMAXX MORE MAXX|http://rv.imax.re:80/4334276722/8502631953/81198
+#EXTINF:-1,CINEMAX THRILLERMAX|http://rv.imax.re:80/4334276722/8502631953/81197
+#EXTINF:-1,CINEMAX OUTER MAX|http://rv.imax.re:80/4334276722/8502631953/81196
+#EXTINF:-1,CINEMAX EAST|http://rv.imax.re:80/4334276722/8502631953/81194
+#EXTINF:-1,CINEMAX ACTION MAX EAST|http://rv.imax.re:80/4334276722/8502631953/81193
+#EXTINF:-1,WGN AMERICA|http://rv.imax.re:80/4334276722/8502631953/81192
+#EXTINF:-1,WE TV|http://rv.imax.re:80/4334276722/8502631953/81191
+#EXTINF:-1,VICELAND|http://rv.imax.re:80/4334276722/8502631953/81190
+#EXTINF:-1,USA NETWORK|http://rv.imax.re:80/4334276722/8502631953/81189
+#EXTINF:-1,UNIVISION TDN|http://rv.imax.re:80/4334276722/8502631953/81188
+#EXTINF:-1,UNIVISION|http://rv.imax.re:80/4334276722/8502631953/81187
+#EXTINF:-1,UNIMAS|http://rv.imax.re:80/4334276722/8502631953/81186
+#EXTINF:-1,TVONE|http://rv.imax.re:80/4334276722/8502631953/81185
+#EXTINF:-1,TV LAND|http://rv.imax.re:80/4334276722/8502631953/81184
+#EXTINF:-1,TRU TV|http://rv.imax.re:80/4334276722/8502631953/81183
+#EXTINF:-1,TNT|http://rv.imax.re:80/4334276722/8502631953/81182
+#EXTINF:-1,TLC CHANNEL|http://rv.imax.re:80/4334276722/8502631953/81181
+#EXTINF:-1,THE CW CHICAGO|http://rv.imax.re:80/4334276722/8502631953/81180
+#EXTINF:-1,THE CW PIX 11|http://rv.imax.re:80/4334276722/8502631953/81179
+#EXTINF:-1,TELEMUNDO|http://rv.imax.re:80/4334276722/8502631953/81178
+#EXTINF:-1,TCM|http://rv.imax.re:80/4334276722/8502631953/81177
+#EXTINF:-1,TBS|http://rv.imax.re:80/4334276722/8502631953/81176
+#EXTINF:-1,TBN TRINITY BROADCASTING NETWORK|http://rv.imax.re:80/4334276722/8502631953/81175
+#EXTINF:-1,SYFY|http://rv.imax.re:80/4334276722/8502631953/81174
+#EXTINF:-1,SUNDANCE|http://rv.imax.re:80/4334276722/8502631953/81173
+#EXTINF:-1,SPIKE/PARAMOUNT|http://rv.imax.re:80/4334276722/8502631953/81171
+#EXTINF:-1,SMITHSONIAN CHANNEL|http://rv.imax.re:80/4334276722/8502631953/81168
+#EXTINF:-1,SHOWTIME SHOWCASE|http://rv.imax.re:80/4334276722/8502631953/81166
+#EXTINF:-1,SHOWTIME|http://rv.imax.re:80/4334276722/8502631953/81164
+#EXTINF:-1,SHOWTIME EXTREME|http://rv.imax.re:80/4334276722/8502631953/81162
+#EXTINF:-1,SHOWTIME 2|http://rv.imax.re:80/4334276722/8502631953/81160
+#EXTINF:-1,REVOLT|http://rv.imax.re:80/4334276722/8502631953/81157
+#EXTINF:-1,REELZ|http://rv.imax.re:80/4334276722/8502631953/81156
+#EXTINF:-1,RED BULL TV|http://rv.imax.re:80/4334276722/8502631953/81153
+#EXTINF:-1,QVC|http://rv.imax.re:80/4334276722/8502631953/81151
+#EXTINF:-1,PURSUIT CHANNEL|http://rv.imax.re:80/4334276722/8502631953/81149
+#EXTINF:-1,POP|http://rv.imax.re:80/4334276722/8502631953/81147
+#EXTINF:-1,OXYGEN|http://rv.imax.re:80/4334276722/8502631953/81145
+#EXTINF:-1,OWN NETWORK|http://rv.imax.re:80/4334276722/8502631953/81143
+#EXTINF:-1,OVATION|http://rv.imax.re:80/4334276722/8502631953/81141
+#EXTINF:-1,NBC UNIVERSO|http://rv.imax.re:80/4334276722/8502631953/81138
+#EXTINF:-1,NBC 5|http://rv.imax.re:80/4334276722/8502631953/81136
+#EXTINF:-1,NBC 4 NY|http://rv.imax.re:80/4334276722/8502631953/81134
+#EXTINF:-1,MY 9|http://rv.imax.re:80/4334276722/8502631953/81132
+#EXTINF:-1,MSNBC|http://rv.imax.re:80/4334276722/8502631953/81129
+#EXTINF:-1,ME TV|http://rv.imax.re:80/4334276722/8502631953/81127
+#EXTINF:-1,MAV TV|http://rv.imax.re:80/4334276722/8502631953/81125
+#EXTINF:-1,LIFETIME MOVIES|http://rv.imax.re:80/4334276722/8502631953/81123
+#EXTINF:-1,LIFETIME|http://rv.imax.re:80/4334276722/8502631953/81121
+#EXTINF:-1,LAFF TV|http://rv.imax.re:80/4334276722/8502631953/81119
+#EXTINF:-1,ION TV|http://rv.imax.re:80/4334276722/8502631953/81117
+#EXTINF:-1,INFOWARS|http://rv.imax.re:80/4334276722/8502631953/81114
+#EXTINF:-1,IFC|http://rv.imax.re:80/4334276722/8502631953/81112
+#EXTINF:-1,HSN|http://rv.imax.re:80/4334276722/8502631953/81110
+#EXTINF:-1,HLN|http://rv.imax.re:80/4334276722/8502631953/81108
+#EXTINF:-1,HGTV|http://rv.imax.re:80/4334276722/8502631953/81106
+#EXTINF:-1,HGTV|http://rv.imax.re:80/4334276722/8502631953/81103
+#EXTINF:-1,HEROS & ICONS|http://rv.imax.re:80/4334276722/8502631953/81101
+#EXTINF:-1,GRIT TV|http://rv.imax.re:80/4334276722/8502631953/81099
+#EXTINF:-1,GALAVISION|http://rv.imax.re:80/4334276722/8502631953/81097
+#EXTINF:-1,FYI NETWORK|http://rv.imax.re:80/4334276722/8502631953/81095
+#EXTINF:-1,FXX|http://rv.imax.re:80/4334276722/8502631953/81092
+#EXTINF:-1,FXM|http://rv.imax.re:80/4334276722/8502631953/81090
+#EXTINF:-1,FX|http://rv.imax.re:80/4334276722/8502631953/81088
+#EXTINF:-1,FUSE|http://rv.imax.re:80/4334276722/8502631953/81086
+#EXTINF:-1,FREEFORM|http://rv.imax.re:80/4334276722/8502631953/81083
+#EXTINF:-1,FOOD NETWORK|http://rv.imax.re:80/4334276722/8502631953/81081
+#EXTINF:-1,EL REY NETWORK|http://rv.imax.re:80/4334276722/8502631953/81079
+#EXTINF:-1,EL REY NETWORK|http://rv.imax.re:80/4334276722/8502631953/81077
+#EXTINF:-1,E!|http://rv.imax.re:80/4334276722/8502631953/81075
+#EXTINF:-1,DOG TV|http://rv.imax.re:80/4334276722/8502631953/81073
+#EXTINF:-1,DIY NETWORK|http://rv.imax.re:80/4334276722/8502631953/81071
+#EXTINF:-1,DESTINATION AMERICA|http://rv.imax.re:80/4334276722/8502631953/81069
+#EXTINF:-1,COZI TV|http://rv.imax.re:80/4334276722/8502631953/81066
+#EXTINF:-1,COUNTRY NETWORK|http://rv.imax.re:80/4334276722/8502631953/81064
+#EXTINF:-1,COOKING CHANNEL|http://rv.imax.re:80/4334276722/8502631953/81062
+#EXTINF:-1,COMET TV|http://rv.imax.re:80/4334276722/8502631953/81061
+#EXTINF:-1,COMEDY CENTRAL|http://rv.imax.re:80/4334276722/8502631953/81060
+#EXTINF:-1,CMT|http://rv.imax.re:80/4334276722/8502631953/81059
+#EXTINF:-1,CBS NY|http://rv.imax.re:80/4334276722/8502631953/81058
+#EXTINF:-1,CBS EAST|http://rv.imax.re:80/4334276722/8502631953/81057
+#EXTINF:-1,BUZZER|http://rv.imax.re:80/4334276722/8502631953/81056
+#EXTINF:-1,BRAVO|http://rv.imax.re:80/4334276722/8502631953/81055
+#EXTINF:-1,BOUNCE TV|http://rv.imax.re:80/4334276722/8502631953/81054
+#EXTINF:-1,BLAZE TV|http://rv.imax.re:80/4334276722/8502631953/81053
+#EXTINF:-1,BET HER|http://rv.imax.re:80/4334276722/8502631953/81052
+#EXTINF:-1,BET|http://rv.imax.re:80/4334276722/8502631953/81051
+#EXTINF:-1,BBC AMERICA|http://rv.imax.re:80/4334276722/8502631953/81050
+#EXTINF:-1,AXS TV|http://rv.imax.re:80/4334276722/8502631953/81049
+#EXTINF:-1,AWE CHANNEL|http://rv.imax.re:80/4334276722/8502631953/81048
+#EXTINF:-1,ANTENNA TV|http://rv.imax.re:80/4334276722/8502631953/81047
+#EXTINF:-1,AMERICAN HEROES CHANNEL|http://rv.imax.re:80/4334276722/8502631953/81046
+#EXTINF:-1,AMC|http://rv.imax.re:80/4334276722/8502631953/81045
+#EXTINF:-1,ABC WEST|http://rv.imax.re:80/4334276722/8502631953/81044
+#EXTINF:-1,ABC NY|http://rv.imax.re:80/4334276722/8502631953/81043
+#EXTINF:-1,ABC EAST|http://rv.imax.re:80/4334276722/8502631953/81042
+#EXTINF:-1,A&E|http://rv.imax.re:80/4334276722/8502631953/81041
+#EXTINF:-1,BABY TV|http://rv.imax.re:80/4334276722/8502631953/81039
+#EXTINF:-1,UNIVERSAL KIDS|http://rv.imax.re:80/4334276722/8502631953/81038
+#EXTINF:-1,TEEN NICK|http://rv.imax.re:80/4334276722/8502631953/81037
+#EXTINF:-1,STARZ KIDS & FAMILY|http://rv.imax.re:80/4334276722/8502631953/81036
+#EXTINF:-1,NICKTOONS|http://rv.imax.re:80/4334276722/8502631953/81035
+#EXTINF:-1,NICK JR. TOO|http://rv.imax.re:80/4334276722/8502631953/81034
+#EXTINF:-1,NICK JR|http://rv.imax.re:80/4334276722/8502631953/81033
+#EXTINF:-1,NICK|http://rv.imax.re:80/4334276722/8502631953/81032
+#EXTINF:-1,DISNEY XD|http://rv.imax.re:80/4334276722/8502631953/81031
+#EXTINF:-1,DISNEY JR|http://rv.imax.re:80/4334276722/8502631953/81030
+#EXTINF:-1,DISNEY CHANNEL|http://rv.imax.re:80/4334276722/8502631953/81029
+#EXTINF:-1,PBS WLIW 21|http://rv.imax.re:80/4334276722/8502631953/81028
+#EXTINF:-1,PBS KIDS EAST|http://rv.imax.re:80/4334276722/8502631953/81027
+#EXTINF:-1,PBS|http://rv.imax.re:80/4334276722/8502631953/81026
+#EXTINF:-1,CARTOONITO ES|http://rv.imax.re:80/4334276722/8502631953/81025
+#EXTINF:-1,BOOMERANG|http://rv.imax.re:80/4334276722/8502631953/81023
+#EXTINF:-1,ANIMAL PLANET|http://rv.imax.re:80/4334276722/8502631953/81021
+#EXTINF:-1,NAT GEO WILD US|http://rv.imax.re:80/4334276722/8502631953/81020
+#EXTINF:-1,NAT GEO USA|http://rv.imax.re:80/4334276722/8502631953/81019
+#EXTINF:-1,INVESTIGATION DISCOVERY|http://rv.imax.re:80/4334276722/8502631953/81018
+#EXTINF:-1,HISTORY CHANNEL|http://rv.imax.re:80/4334276722/8502631953/81017
+#EXTINF:-1,HISTORY 2|http://rv.imax.re:80/4334276722/8502631953/81016
+#EXTINF:-1,DISCOVERY SCIENCE|http://rv.imax.re:80/4334276722/8502631953/81015
+#EXTINF:-1,DISCOVERY LIFE|http://rv.imax.re:80/4334276722/8502631953/81014
+#EXTINF:-1,DISCOVERY FAMILY|http://rv.imax.re:80/4334276722/8502631953/81013
+#EXTINF:-1,DISCOVERY CHANNEL|http://rv.imax.re:80/4334276722/8502631953/81012
+#EXTINF:-1,CRIME AND INVESTIGATION|http://rv.imax.re:80/4334276722/8502631953/81011
+#EXTINF:-1,TRAVEL CHANNEL|http://rv.imax.re:80/4334276722/8502631953/81010
+#EXTINF:-1,WORLD FISHING NETWORK|http://rv.imax.re:80/4334276722/8502631953/81009
+#EXTINF:-1,OUTSIDE TV|http://rv.imax.re:80/4334276722/8502631953/81008
+#EXTINF:-1,OUTDOOR CHANNEL|http://rv.imax.re:80/4334276722/8502631953/81007
+#EXTINF:-1,BLOOMBERG|http://rv.imax.re:80/4334276722/8502631953/81005
+#EXTINF:-1,CNN|http://rv.imax.re:80/4334276722/8502631953/81004
+#EXTINF:-1,CNN*|http://rv.imax.re:80/4334276722/8502631953/127211
+#EXTINF:-1,CNBC|http://rv.imax.re:80/4334276722/8502631953/81003
+#EXTINF:-1,RT NEWS|http://rv.imax.re:80/4334276722/8502631953/81002
+#EXTINF:-1,ONE AMERICA NEWS|http://rv.imax.re:80/4334276722/8502631953/81001
+#EXTINF:-1,NEWS 12 NEW JERSEY|http://rv.imax.re:80/4334276722/8502631953/81000
+#EXTINF:-1,NEWS 12 LONG ISLAND|http://rv.imax.re:80/4334276722/8502631953/80999
+#EXTINF:-1,FOX NEWS|http://rv.imax.re:80/4334276722/8502631953/80998
+#EXTINF:-1,ESPN NEWS|http://rv.imax.re:80/4334276722/8502631953/80997
+#EXTINF:-1,ABC NEWS|http://rv.imax.re:80/4334276722/8502631953/80996
+#EXTINF:-1,THE WEATHER CHANNEL|http://rv.imax.re:80/4334276722/8502631953/80995
+#EXTINF:-1,FOX BUSINESS|http://rv.imax.re:80/4334276722/8502631953/80994
+#EXTINF:-1,FOX 50|http://rv.imax.re:80/4334276722/8502631953/80993
+#EXTINF:-1,FOX 5|http://rv.imax.re:80/4334276722/8502631953/80992
+#EXTINF:-1,MTV 2|http://rv.imax.re:80/4334276722/8502631953/80990
+#EXTINF:-1,MTV LIVE|http://rv.imax.re:80/4334276722/8502631953/80989
+#EXTINF:-1,MTV|http://rv.imax.re:80/4334276722/8502631953/80988
+#EXTINF:-1,VH1|http://rv.imax.re:80/4334276722/8502631953/80987
+#EXTINF:-1,WWE|http://rv.imax.re:80/4334276722/8502631953/80985
+#EXTINF:-1,UFC 24/7|http://rv.imax.re:80/4334276722/8502631953/80984
+#EXTINF:-1,TVG HORSE RACING|http://rv.imax.re:80/4334276722/8502631953/80983
+#EXTINF:-1,TENNIS|http://rv.imax.re:80/4334276722/8502631953/80982
+#EXTINF:-1,SPORTSNET NY|http://rv.imax.re:80/4334276722/8502631953/80981
+#EXTINF:-1,SPORTSMAN CHANNEL|http://rv.imax.re:80/4334276722/8502631953/80980
+#EXTINF:-1,SEC NETWORK|http://rv.imax.re:80/4334276722/8502631953/80979
+#EXTINF:-1,PAC-12 OREGON|http://rv.imax.re:80/4334276722/8502631953/80978
+#EXTINF:-1,PAC-12 MOUNTAIN|http://rv.imax.re:80/4334276722/8502631953/80977
+#EXTINF:-1,PAC-12 BAY AREA|http://rv.imax.re:80/4334276722/8502631953/80976
+#EXTINF:-1,PAC-12 ARIZONA|http://rv.imax.re:80/4334276722/8502631953/80975
+#EXTINF:-1,PAC 12 NETWORK|http://rv.imax.re:80/4334276722/8502631953/80974
+#EXTINF:-1,PAC 12 LOS ANGELES|http://rv.imax.re:80/4334276722/8502631953/80973
+#EXTINF:-1,NHL NETWORK|http://rv.imax.re:80/4334276722/8502631953/80972
+#EXTINF:-1,NFL RED ZONE|http://rv.imax.re:80/4334276722/8502631953/80971
+#EXTINF:-1,NFL NETWORK|http://rv.imax.re:80/4334276722/8502631953/80970
+#EXTINF:-1,NESN|http://rv.imax.re:80/4334276722/8502631953/80969
+#EXTINF:-1,NBC SPORTS PHILADELPHIA|http://rv.imax.re:80/4334276722/8502631953/80968
+#EXTINF:-1,NBC SPORTS NORTHWEST|http://rv.imax.re:80/4334276722/8502631953/80967
+#EXTINF:-1,NBC SPORTS NETWORK|http://rv.imax.re:80/4334276722/8502631953/80966
+#EXTINF:-1,NBC SPORTS CHICAGO|http://rv.imax.re:80/4334276722/8502631953/80965
+#EXTINF:-1,NBC SPORTS CALIFORNIA|http://rv.imax.re:80/4334276722/8502631953/80964
+#EXTINF:-1,NBC SPORTS BOSTON|http://rv.imax.re:80/4334276722/8502631953/80963
+#EXTINF:-1,NBC SPORTS BAY AREA|http://rv.imax.re:80/4334276722/8502631953/80962
+#EXTINF:-1,NBC GOLF|http://rv.imax.re:80/4334276722/8502631953/80961
+#EXTINF:-1,NBC 10 EAST|http://rv.imax.re:80/4334276722/8502631953/80960
+#EXTINF:-1,NBA TV|http://rv.imax.re:80/4334276722/8502631953/80959
+#EXTINF:-1,MSG +|http://rv.imax.re:80/4334276722/8502631953/80958
+#EXTINF:-1,MSG|http://rv.imax.re:80/4334276722/8502631953/80957
+#EXTINF:-1,MOTOR TREND|http://rv.imax.re:80/4334276722/8502631953/80956
+#EXTINF:-1,MLB NETWORK|http://rv.imax.re:80/4334276722/8502631953/80955
+#EXTINF:-1,LONGHORN NETWORK|http://rv.imax.re:80/4334276722/8502631953/80954
+#EXTINF:-1,GOLF CHANNEL|http://rv.imax.re:80/4334276722/8502631953/80953
+#EXTINF:-1,GAME SHOW NETWORK|http://rv.imax.re:80/4334276722/8502631953/80952
+#EXTINF:-1,FOX SPORTS 1|http://rv.imax.re:80/4334276722/8502631953/80951
+#EXTINF:-1,FOX SPORTS 2|http://rv.imax.re:80/4334276722/8502631953/80950
+#EXTINF:-1,FOX SOCCER PLUS|http://rv.imax.re:80/4334276722/8502631953/80949
+#EXTINF:-1,FOX DEPORTES|http://rv.imax.re:80/4334276722/8502631953/80948
+#EXTINF:-1,FANTASY SPORTS NETWORK|http://rv.imax.re:80/4334276722/8502631953/80947
+#EXTINF:-1,ESPN U|http://rv.imax.re:80/4334276722/8502631953/80946
+#EXTINF:-1,ESPN 2|http://rv.imax.re:80/4334276722/8502631953/80945
+#EXTINF:-1,ESPN|http://rv.imax.re:80/4334276722/8502631953/80944
+#EXTINF:-1,ELEVEN SPORTS|http://rv.imax.re:80/4334276722/8502631953/80943
+#EXTINF:-1,CBSN SPORTS NETWORK|http://rv.imax.re:80/4334276722/8502631953/80942
+#EXTINF:-1,CBS SPORTS NETWORK|http://rv.imax.re:80/4334276722/8502631953/80941
+#EXTINF:-1,BIG TEN NETWORK|http://rv.imax.re:80/4334276722/8502631953/80940
+#EXTINF:-1,BEIN SPORT USA|http://rv.imax.re:80/4334276722/8502631953/80939
+#EXTINF:-1,MARQUEE SPORTS NETWORK|http://rv.imax.re:80/4334276722/8502631953/80938
+#EXTINF:-1,showtime-west|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16595
+#EXTINF:-1,showtime-east|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16596
+#EXTINF:-1,hbo-west|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16597
+#EXTINF:-1,hbo-east|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16598
+#EXTINF:-1,HALLMARK-CHANNEL|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16599
+#EXTINF:-1,HALLMARK-DRAMA|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16600
+#EXTINF:-1,HALLMARK-MOVIES-&-MYSTERIES|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16601
+#EXTINF:-1,cinemax-west|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16602
+#EXTINF:-1,cinemax-east|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16603
+#EXTINF:-1,SONY-MOVIE-CHANNEL|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16604
+#EXTINF:-1,BUZZR|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16605
+#EXTINF:-1,STARZ_ENCORE|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16607
+#EXTINF:-1,STARZENCORE CLASSIC|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16608
+#EXTINF:-1,SUNDANCE|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16610
+#EXTINF:-1,EPIX|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16611
+#EXTINF:-1,EPIX2|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16612
+#EXTINF:-1,epix Hits|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16613
+#EXTINF:-1,syfy|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16614
+#EXTINF:-1,AMC|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16615
+#EXTINF:-1,TNT|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16616
+#EXTINF:-1,TNTWEST|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16617
+#EXTINF:-1,FXX|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16618
+#EXTINF:-1,FXM|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16619
+#EXTINF:-1,FX|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16620
+#EXTINF:-1,TLC|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16621
+#EXTINF:-1,TBS|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16622
+#EXTINF:-1,USA|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16623
+#EXTINF:-1,Bravo|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16624
+#EXTINF:-1,WE|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16625
+#EXTINF:-1,OXYGEN|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16626
+#EXTINF:-1,IFC|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16627
+#EXTINF:-1,FREEFORM|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16628
+#EXTINF:-1,OWN|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16629
+#EXTINF:-1,FUSION|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16630
+#EXTINF:-1,YES|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16631
+#EXTINF:-1,TASTEMADE|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16632
+#EXTINF:-1,VELOCITY|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16633
+#EXTINF:-1,TRU-TV|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16634
+#EXTINF:-1,HLN|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16635
+#EXTINF:-1,HGTV|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16636
+#EXTINF:-1,Cooking-Channel|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16637
+#EXTINF:-1,DIY NETWORK|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16638
+#EXTINF:-1,E!|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16639
+#EXTINF:-1,CBS 2 WBBM (Chicago)|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16640
+#EXTINF:-1,CBS|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16641
+#EXTINF:-1,MSNBC|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16642
+#EXTINF:-1,KNBC_CA|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16643
+#EXTINF:-1,NESN|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16644
+#EXTINF:-1,CNN|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16645
+#EXTINF:-1,CNBC-WORLD|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16646
+#EXTINF:-1,CNBC|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16647
+#EXTINF:-1,BBCAMERICA|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16648
+#EXTINF:-1,BBC-WORLD-NEWS|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16649
+#EXTINF:-1,FOX-News|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16650
+#EXTINF:-1,FOX-Business|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16651
+#EXTINF:-1,CBS NEWS|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16652
+#EXTINF:-1,ABC NEWS|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16653
+#EXTINF:-1,BABY-TV|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16654
+#EXTINF:-1,CARTOON-NETWORK|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16655
+#EXTINF:-1,DISNEY-CHANNEL|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16656
+#EXTINF:-1,DISNEY-JUNIOR|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16657
+#EXTINF:-1,Disnex-XD|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16658
+#EXTINF:-1,BOOMERANG|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16659
+#EXTINF:-1,DISCOVERY-FAMILIA|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16660
+#EXTINF:-1,DISCOVERY|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16661
+#EXTINF:-1,DISCOVERY-FAMILY|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16662
+#EXTINF:-1,DISCOVERY SCIENCE*|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16663
+#EXTINF:-1,INVESTIGATION-DISCOVERY|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16664
+#EXTINF:-1,DISCOVERY LIFE|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16665
+#EXTINF:-1,NATGEO|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16666
+#EXTINF:-1,NATGEO WILD|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16667
+#EXTINF:-1,ANIMAL-PLANET|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16668
+#EXTINF:-1,TRAVEL|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16669
+#EXTINF:-1,OUTSIDE|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16670
+#EXTINF:-1,DESTINATION-AMERICA|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16671
+#EXTINF:-1,AMERICAN-HEROES-CHANNEL|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16672
+#EXTINF:-1,Food-Network|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16673
+#EXTINF:-1,OLYMPIC|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16674
+#EXTINF:-1,beINSports|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16675
+#EXTINF:-1,FOX Deportes|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16676
+#EXTINF:-1,FOX_SPORT|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16677
+#EXTINF:-1,FOX-sports-1|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16678
+#EXTINF:-1,FOX SPORTS2|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16679
+#EXTINF:-1,FOX BUSINESS|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16680
+#EXTINF:-1,FOX_FCS_ATLANTIC|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16681
+#EXTINF:-1,ESPN-NEWS|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16682
+#EXTINF:-1,espn|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16683
+#EXTINF:-1,ESPN2|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16684
+#EXTINF:-1,ESPN-U|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16685
+#EXTINF:-1,ESPN-SEC|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16686
+#EXTINF:-1,NBA-TV|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16687
+#EXTINF:-1,ANTENNA TV|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16688
+#EXTINF:-1,golf-chan|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16689
+#EXTINF:-1,baby first|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16690
+#EXTINF:-1,NFL-NETWORK|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16691
+#EXTINF:-1,NBC SPORTS NETWORK|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16692
+#EXTINF:-1,BIG-TEN-NETWORK|http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16693
+#EXTINF:-1,TNT|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397326
+#EXTINF:-1,REDBULL TV|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397327
+#EXTINF:-1,RETRO MUSIC ..|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397328
+#EXTINF:-1,RETRO MUSIC ..|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397329
+#EXTINF:-1,RETRO MUSIC ..|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397330
+#EXTINF:-1,UFROVISION|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397331
+#EXTINF:-1,URBAN MUSIC 4U ..|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397332
+#EXTINF:-1,US CALIFORNIA MUSIC CHANNEL|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397333
+#EXTINF:-1,US CALIFORNIA MUSIC CHANNEL|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397334
+#EXTINF:-1,MTV 2|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397335
+#EXTINF:-1,MTV CLASSICS|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397336
+#EXTINF:-1,RETRO MUSIC|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397337
+#EXTINF:-1,TELEMUNDO MIAMI|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397338
+#EXTINF:-1,TELEMUNDO NEW YORK|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397339
+#EXTINF:-1,FORMULA 1|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397340
+#EXTINF:-1,FOX SPORTS 1 AR|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397341
+#EXTINF:-1,FOX SPORTS 2 AR|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/397342
+#EXTINF:-1,SUNDANCE|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403501
+#EXTINF:-1,SUNDANCE|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403502
+#EXTINF:-1,TVONE|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403503
+#EXTINF:-1,TENNIS|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403504
+#EXTINF:-1,TELEMUNDO|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403505
+#EXTINF:-1,GAME SHOW NETWORK|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403506
+#EXTINF:-1,AMC|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403507
+#EXTINF:-1,ANTENNA TV|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403508
+#EXTINF:-1,AUDIENCE NETWORK|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403509
+#EXTINF:-1,BET SOUL|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403510
+#EXTINF:-1,BET EAST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403511
+#EXTINF:-1,BET WEST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403512
+#EXTINF:-1,BBC WORLD NEWS|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403513
+#EXTINF:-1,BLOOMBERG TV|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403514
+#EXTINF:-1,CHEDDAR|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403515
+#EXTINF:-1,CBS|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403516
+#EXTINF:-1,DISCOVERY CHANNEL|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403517
+#EXTINF:-1,COZI TV|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403518
+#EXTINF:-1,COZI TV|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403519
+#EXTINF:-1,COMEDY CENTRAL|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403520
+#EXTINF:-1,COMEDY CENTRAL WEST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403521
+#EXTINF:-1,DISNEY CHANNEL|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403522
+#EXTINF:-1,DISCOVERY LIFE|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403523
+#EXTINF:-1,DISCOVERY EAST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403524
+#EXTINF:-1,DISCOVERY FAMILIA|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403525
+#EXTINF:-1,INVESTIGATION DISCOVERY|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403526
+#EXTINF:-1,FXX WEST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403527
+#EXTINF:-1,FX WEST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403528
+#EXTINF:-1,FX EAST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403529
+#EXTINF:-1,FUSION|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403530
+#EXTINF:-1,FUSE|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403531
+#EXTINF:-1,EPIX HITS|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403532
+#EXTINF:-1,FOOD NETWORK|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403533
+#EXTINF:-1,FOX NEWS|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403534
+#EXTINF:-1,FOX|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403535
+#EXTINF:-1,FOX WEST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403536
+#EXTINF:-1,HGTV|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403537
+#EXTINF:-1,HGTV  EAST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403538
+#EXTINF:-1,HLN|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403539
+#EXTINF:-1,HLN|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403540
+#EXTINF:-1,IFC|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403541
+#EXTINF:-1,MTV 2|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403542
+#EXTINF:-1,NBC|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403543
+#EXTINF:-1,NHL NETWORK|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403544
+#EXTINF:-1,NICK MUSIC|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403545
+#EXTINF:-1,OWN NETWORK|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403546
+#EXTINF:-1,RFD TV|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403547
+#EXTINF:-1,RT NEWS|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403548
+#EXTINF:-1,TBS|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403549
+#EXTINF:-1,TLC EAST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403550
+#EXTINF:-1,TLC WEST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403551
+#EXTINF:-1,TRU TV EAST|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403552
+#EXTINF:-1,UNIVISION|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403553
+#EXTINF:-1,DISCOVERY VELOCITY|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403554
+#EXTINF:-1,WEATHER NATION|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403555
+#EXTINF:-1,ACC NETWORK|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403556
+#EXTINF:-1,BOUNCE TV|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403557
+#EXTINF:-1,WORLD FISH NETWORK|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403558
+#EXTINF:-1,MY 13 (LOS ANGELES)|http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403559
