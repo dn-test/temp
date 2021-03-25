@@ -1,4 +1,4 @@
-#EXTM3U http://epg.streamstv.me/epg/guide-usa.xml.gz
+#EXTM3U url-tvg="http://epg.streamstv.me/epg/guide-usa.xml.gz" x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
 #EXTINF:-1 tvg-id="23ABCKERO.us" tvg-name="23 ABC (KERO)" tvg-country="US" tvg-language="English" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" tvg-url="" group-title="Local",23 ABC (KERO) (720p)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" tvg-name="30A Darcizzle Offshore" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/l2O0fY1.png" tvg-url="" group-title="Hobby",30A Darcizzle Offshore
